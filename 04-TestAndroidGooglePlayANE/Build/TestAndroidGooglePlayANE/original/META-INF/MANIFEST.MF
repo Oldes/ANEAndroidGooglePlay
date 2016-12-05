@@ -1,0 +1,177 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: rKE8dILL7OOCFCIwdW5emoQrZYo=
+
+Name: res/raw/rgba8888
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: res/raw/debuginfo
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: res/layout/expandable_chooser_row.xml
+SHA1-Digest: Y9SsDOrGQpWK1MmwuM5yiKSTU0E=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/Android-ARM/support-v4-24.2.1.jar
+SHA1-Digest: 18QsgPZQm56k2yjKeFn/rgjsV0E=
+
+Name: lib/armeabi-v7a/libCore.so
+SHA1-Digest: V5HX2pMMtg4aFb1Za5pJYJnQnaA=
+
+Name: lib/armeabi-v7a/libstagefright_froyo.so
+SHA1-Digest: vHfWDNiaTxtPbMx/FbNS0GbXu/Q=
+
+Name: res/raw/adobelogo.gif
+SHA1-Digest: cp6EzjLDVdzLOD69uttcA3OnzH8=
+
+Name: res/raw/icon.jpg
+SHA1-Digest: nANfJreZj8IRns9AUf6IHMlN50E=
+
+Name: lib/armeabi-v7a/libysshared.so
+SHA1-Digest: LGIrzlSe5yhYRsZhlwPULOPGCTE=
+
+Name: res/layout/expandable_multiple_chooser_row.xml
+SHA1-Digest: 1Cgh5XbgWvLOc8NgpqabAhqmMHQ=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/Android-ARM/support-core-utils-24.2.1.jar
+SHA1-Digest: nEw7yQJFDDntVN4XDbT7Eq6iCjU=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/catalog.xml
+SHA1-Digest: P/JcoLOLOAa5HOXwEAugdhGOpAg=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: 5SXKAJ2qyT1EbTlkfSzY9bddUcQ=
+
+Name: assets/adobeair.vch
+SHA1-Digest: obaVnVYSXVAirUSpyAcLg3+wN2E=
+
+Name: assets/icons/Thumbs.db
+SHA1-Digest: v3wHWJm6/A3v0peSTF1GjEC/oC4=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/Android-ARM/support-annotations-24.2.1.jar
+SHA1-Digest: jeOq/svfmKYdtkJ/AI8tUVvNJUQ=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: xF5tFu+Q9KOv2Qa6ReapJ7EW8Ek=
+
+Name: res/drawable-hdpi-v4/home.png
+SHA1-Digest: A+rx8jiuPWqssDz0rtsU3PWl3CA=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/Android-ARM/support-core-ui-24.2.1.jar
+SHA1-Digest: 5/MTIWiVfu/EYin8MsO9RkZCtx4=
+
+Name: assets/META-INF/AIR/application.xml
+SHA1-Digest: xVzgv3pIHiUC3JbaYPeEf+8zMJA=
+
+Name: res/xml/provider_paths.xml
+SHA1-Digest: Tv5w5/LchGvun/DE3cEpEMnhS2k=
+
+Name: resources.arsc
+SHA1-Digest: gosA4NX5AVzGn05ync1Pxax2V/M=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/Android-ARM/play-services-base-9.4.0.jar
+SHA1-Digest: Pe5M5YRNOdhD1QP7j+BOUeW//6w=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/Android-ARM/play-services-games-9.4.0.jar
+SHA1-Digest: 5uIlHz06v07s1r9pGdQfx69JeFI=
+
+Name: assets/icons/icon_192.png
+SHA1-Digest: xINVxvUn0Uif0vQeWAE393aB1GQ=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/extension.xml
+SHA1-Digest: cZkTaWfLZdd5l7nfJ8Say+yRCVc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: dpwfk3F5N6H/n9TKIy1sn+N183g=
+
+Name: res/layout/multiple_file_selection_panel.xml
+SHA1-Digest: Q3Sm+xqpM8raPsXDNE2EfSCRWwA=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: QxgIbXczdiH3dm16M8525/Ec3go=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: nHUcTrzXGypGseggpMHp+AEmfds=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/library.swf
+SHA1-Digest: +7pzUSrrSbJAiK76Z1Z9BSeW4WQ=
+
+Name: lib/armeabi-v7a/libstlport_shared.so
+SHA1-Digest: FvhkervCQZVpFlERTVdtVjaIPok=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/Android-ARM/support-compat-24.2.1.jar
+SHA1-Digest: DstLWV+g8PgBihSazj6mUlYk+U4=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/Android-ARM/internal_impl-24.2.1.jar
+SHA1-Digest: fkOJvRMzWaL/iGI/8eT/k9bm94A=
+
+Name: res/drawable-xhdpi-v4/ouya_icon.png
+SHA1-Digest: xF5tFu+Q9KOv2Qa6ReapJ7EW8Ek=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/Android-ARM/support-fragment-24.2.1.jar
+SHA1-Digest: uaGseK1+86vtxKSzDNkrysuTnR8=
+
+Name: res/raw/startga.html
+SHA1-Digest: 0Gq1U1c1hFbPzb+UHZ8RaIpUnts=
+
+Name: assets/TestAndroidGooglePlayANE.swf
+SHA1-Digest: NhH98BTHvP/em8GoGCoaxBz36Qo=
+
+Name: lib/armeabi-v7a/libstagefright_honeycomb.so
+SHA1-Digest: /pJ1zYDuHzdBqkr3EaXrO6OfzA4=
+
+Name: res/layout/ssl_certificate_warning.xml
+SHA1-Digest: Vuj9UIvxMuVZZ13eir9xda4LaFs=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/Android-ARM/platform.xml
+SHA1-Digest: Ix8ZwycfRKpACRsab/UmCBTW1RY=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/Android-ARM/play-services-auth-9.4.0.jar
+SHA1-Digest: Q0jdJtg7VsIFi3aCIsMnG86RFyQ=
+
+Name: res/layout/main.xml
+SHA1-Digest: 2xsD3W/v2LepVmxWHh66u7/fmKY=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/Android-ARM/support-media-compat-24.2.1.jar
+SHA1-Digest: CbRiu8t3ZQKEvWYU8aMvNg7zafg=
+
+Name: res/drawable/air_72px_mobile_eula.png
+SHA1-Digest: 9MOqUE6m6bqlLb54/RUCOvCMUh0=
+
+Name: res/drawable/mp_warning_32x32_n.png
+SHA1-Digest: eCFwTk+zmvIeM+w4WQEnsknkfNI=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/Android-ARM/play-services-basement-9.4.0.jar
+SHA1-Digest: YYSF/vPr4SEn92Iqu8m1s5BXtcI=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/Android-ARM/play-services-auth-base-9.4.0.jar
+SHA1-Digest: WMn17oF/24tlj9dFX637dBGffuk=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: QxgIbXczdiH3dm16M8525/Ec3go=
+
+Name: classes.dex
+SHA1-Digest: PHn+ISYuAD2p3wUuiURKxIpyH0U=
+
+Name: assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePl
+ ay/META-INF/ANE/Android-ARM/library.swf
+SHA1-Digest: +7pzUSrrSbJAiK76Z1Z9BSeW4WQ=
+

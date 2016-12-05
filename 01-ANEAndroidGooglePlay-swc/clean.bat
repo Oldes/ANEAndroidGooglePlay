@@ -1,0 +1,1 @@
+@IF EXIST com.amanitadesign.AndroidGooglePlay.swc DEL com.amanitadesign.AndroidGooglePlay.swc

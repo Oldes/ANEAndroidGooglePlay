@@ -1,0 +1,21 @@
+version: 2.0.2
+apkFileName: TestAndroidGooglePlayANE.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '9'
+  targetSdkVersion: '24'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '1000'
+  versionName: '0.1'
+sharedLibrary: false
+doNotCompress:
+- assets/TestAndroidGooglePlayANE.swf
+- assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePlay/library.swf
+- assets/META-INF/AIR/extensions/com.amanitadesign.AndroidGooglePlay/META-INF/ANE/Android-ARM/library.swf
+- res/raw/rgba8888
+- res/raw/debuginfo

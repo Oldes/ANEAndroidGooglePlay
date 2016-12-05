@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.amanitadesign.TestAndroidGooglePlayANE" platformBuildVersionCode="24" platformBuildVersionName="7.0">
+    <application android:enabled="true" android:hardwareAccelerated="false" android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:configChanges="fontScale|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:excludeFromRecents="false" android:label="@string/app_name" android:launchMode="singleTask" android:name=".AppEntry" android:screenOrientation="user" android:theme="@style/Theme.NoShadow" android:windowSoftInputMode="adjustResize|stateHidden">
+            <meta-data android:name="namespaceVersion" android:value="23.0"/>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <meta-data android:name="fullScreen" android:value="true"/>
+            <meta-data android:name="uniqueappversionid" android:value="ae72dd9e-f266-44ec-9321-d2a074e9fb90"/>
+            <meta-data android:name="initialcontent" android:value="TestAndroidGooglePlayANE.swf"/>
+            <meta-data android:name="containsVideo" android:value="false"/>
+            <meta-data android:name="webContentsDebuggingEnabled" android:value="false"/>
+        </activity>
+        <provider android:authorities="air.com.amanitadesign.TestAndroidGooglePlayANE.provider" android:exported="false" android:grantUriPermissions="true" android:name="com.adobe.air.CameraUIProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/provider_paths"/>
+        </provider>
+        <meta-data android:name="com.google.android.gms.version" android:value="9452000"/>
+        <meta-data android:name="com.google.android.gms.games.APP_ID" android:value="278609204045"/>
+    </application>
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
