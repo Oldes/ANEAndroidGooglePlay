@@ -8,7 +8,6 @@ AIR SDK http://www.adobe.com/devnet/air/air-sdk-download.html
   (unpack it and change the path in *setup.bat* file - I'm having it in C:\SDKs\AIR24\)
 
 Script goall.bat will do everything including building and running test if some device is connected.
-The only thing which is not made using this script is *making an Android project* which must be done from Android Studio as I don't know, how to update it from a script so far.
 
 
 - - - - - - - - - - - - -
